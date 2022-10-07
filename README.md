@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/earth_wttw" target="blank"><img src="https://img.shields.io/twitter/follow/earth_wttw?logo=twitter&style=for-the-badge" alt="earth_wttw" /></a> </p>
 
-- 🔭 I’m currently working on **Python,Javascript**
+- 🔭 I’m currently working on **Python, Javascript**
 
 - 🌱 I’m currently learning **Machine Learning**
 
