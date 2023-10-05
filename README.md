@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python, Javascript
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP **
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP**
 
 - 📫 How to reach me **wttwkitipatthavorn@gmail.com**
 
