@@ -3,7 +3,7 @@
 **Computer Engineering @ KMUTT · Bangkok, Thailand**
 
 Fourth-year undergraduate. I build full-stack web applications with LLM and
-machine learning features; most of my time goes to retrieval and multi-agent
+machine learning features, and spend most of my time on retrieval and multi-agent
 systems.
 
 ### Tech
@@ -24,12 +24,12 @@ ECG/EDA/PPG/HRV features by importance with Random Forest and SHAP.
 
 ### Current project
 
-**SecretSource** verifies whether cited papers support a paper's claims, and
-quotes the evidence. Multi-vector retrieval with ColBERTv2 for text and ColPali
-for figures on Qdrant, PDF parsing with GROBID and Docling, orchestration in
-Google ADK and DSPy, a FastAPI gateway with SSE progress streaming, and a React +
-TypeScript UI. Six containerized services on Google Cloud Run with GitHub Actions
-CI.
+**SecretSource** checks whether the papers a paper cites support its claims, and
+quotes the evidence. It uses multi-vector retrieval on Qdrant (ColBERTv2 for text,
+ColPali for figures), parses PDFs with GROBID and Docling, and orchestrates the
+pipeline with Google ADK and DSPy. A FastAPI gateway streams progress over SSE to a
+React + TypeScript UI. The services run in Docker on self-hosted machines behind an
+API gateway with per-user keys, with CI on GitHub Actions.
 
 ### Contact
 
